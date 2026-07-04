@@ -1,0 +1,8 @@
+# Kamma workflow / project scaffolding — not part of this extension
+kamma/
+
+# Claude Code local state
+.claude/
+
+# Handoff / session notes
+handoff.md

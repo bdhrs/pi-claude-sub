@@ -145,6 +145,7 @@ function streamClaudeSub(
 
 		const args = [
 			"-p",
+			"--exclude-dynamic-system-prompt-sections",
 			"--output-format",
 			"stream-json",
 			"--include-partial-messages",
